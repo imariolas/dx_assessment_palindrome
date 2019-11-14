@@ -1,4 +1,5 @@
-# Checks if a string is a palindrome
+# Gets a string as user input,
+# and checks if that string is a palindrome
 class PalindromeString:
 
 	# Constructor that gets the user input
